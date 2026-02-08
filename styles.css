@@ -1,12 +1,12 @@
 body {
   background: #000000;
-  background: -webkit-linear-gradient(125deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
   background: #000000;
-  background: -webkit-linear-gradient(125deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
-  background: -moz-linear-gradient(125deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
-  background: linear-gradient(125deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
+  background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#0000FF", GradientType=0);background: -moz-linear-gradient(125deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
-  background: linear-gradient(125deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#0000FF", GradientType=0);
 }
 .button-container {
