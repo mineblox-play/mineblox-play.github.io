@@ -9,3 +9,12 @@ body {
   background: linear-gradient(125deg, rgba(0, 0, 0, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(0, 0, 255, 1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#0000FF", GradientType=0);
 }
+.button-container {
+  position: fixed;       /* stays in place even when scrolling */
+  top: 50%;              /* vertically centered */
+  right: 20px;           /* 20px from the right edge */
+  transform: translateY(-50%); /* perfect vertical centering */
+  display: flex;
+  flex-direction: column; /* stack buttons vertically */
+  gap: 10px;             /* spacing between buttons */
+}
